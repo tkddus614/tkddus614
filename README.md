@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @tkddus614
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m sangyeon Kim.
+- 
+- 👀 I’m interested in Fronted skills (ex. html5, css, React, vue..)
+- 
+- 🌱 I’m currently learning vue or react.
+- 
+- 💞️ I wanted to improve my personal ability. 
+- 
+- 📫 How to contact me
+-  +82 9381 5627 or tkddus614@gmail.com.
 
-<!---
-tkddus614/tkddus614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
