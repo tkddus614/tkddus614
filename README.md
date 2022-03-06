@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in Fronted skills (ex. html5, css, React, vue..)
 - 
-- 🌱 I’m currently learning vue or react.
+- 🌱 I’m currently learning react or alogrithm.
 - 
 - 💞️ I wanted to improve my personal ability. 
 - 
