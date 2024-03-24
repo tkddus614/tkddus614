@@ -1,11 +1,2 @@
-- 👋 Hi, I’m sangyeon Kim.
-- 
-- 👀 I’m interested in Fronted skills (ex. html5, css, React, vue..)
-- 
-- 🌱 I’m currently learning react or alogrithm.
-- 
-- 💞️ I wanted to improve my personal ability. 
-- 
-- 📫 How to contact me
--  +82 9381 5627 or tkddus614@gmail.com.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkddus614&show_icons=true&theme=radical)
 
